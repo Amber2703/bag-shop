@@ -57,7 +57,7 @@ Folder Structure
 
 * /src: Contains the main source code files.
 * /components: Contains reusable components used throughout the application.
-* /public: Contains static assets, such as images.
+
 
 
 
